@@ -1,0 +1,6 @@
+username=sa
+password=benilde
+servername=Parjao-PC
+typedriver=net.sourceforge.jtds.jdbc.Driver
+databasename=LottoPL
+
